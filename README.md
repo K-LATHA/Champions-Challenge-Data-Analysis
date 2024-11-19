@@ -1,1 +1,1 @@
-# Champions Challenge Data Analysis
+# Champions Challenge Data Analysis [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDA1Y2RiZjUtYmIwNi00N2QwLWI5MWItOGZkOGZlMzk0ZTZhIiwidCI6IjMyNjE3MTFkLTgyMGUtNDVlMC1hNjQwLWRkZTQxM2RiYjc1NSJ9)
